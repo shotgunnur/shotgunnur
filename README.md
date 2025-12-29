@@ -15,5 +15,5 @@
 </p>
 
 <div align=center>
-  ![](https://komarev.com/ghpvc/?username=shotgunnur&color=880808&style=plastic&label=♰&abbreviated=true)
+  <img src="https://komarev.com/ghpvc/?username=shotgunnur&color=880808&style=plastic&label=found+sheep&abbreviated=true)">
 </div>
