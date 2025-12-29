@@ -13,3 +13,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bgjt4lpjj75seup5dnsdohowk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
+
+<div align=center>
+  ![](https://komarev.com/ghpvc/?username=shotgunnur&color=880808&style=plastic&label=♰&abbreviated=true)
+</div>
