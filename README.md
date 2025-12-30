@@ -15,5 +15,5 @@
 </p>
 
 <div align=center>
-  <img src="https://komarev.com/ghpvc/?username=shotgunnur&color=880808&style=plastic&label=found+sheep&abbreviated=true)">
+  <img src="https://komarev.com/ghpvc/?username=shotgunnur&color=880808&style=plastic&label=sheep&abbreviated=true)">
 </div>
