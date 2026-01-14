@@ -1,6 +1,6 @@
 <div align="center">
 
-  ${\textsf{\color{#C92202} " sanitarium, leave me be. "}}$ 
+  ${\textsf{\color{#C92202} " it's forced conformity, that's what's killing the kids! "}}$ 
 <div align="center">
   <img src = "https://github.com/shotgunnur/shotgunnur/blob/aae156a0293a5d34f8a12405bb047a001c83d2df/eddie%20gif.gif" >
 </div>
