@@ -1,5 +1,5 @@
 <div align="center">
-
+  
   ${\textsf{\color{#C92202} " it's forced conformity, that's what's killing the kids! "}}$ 
 <div align="center">
   <img src = "https://github.com/shotgunnur/shotgunnur/blob/aae156a0293a5d34f8a12405bb047a001c83d2df/eddie%20gif.gif" >
@@ -18,3 +18,11 @@
 <div align=center>
   <img src="https://komarev.com/ghpvc/?username=shotgunnur&color=880808&style=plastic&label=sheep&abbreviated=true)">
 </div>
+
+
+<div align="center">
+  <img src = "https://github.com/shotgunnur/shotgunnur/blob/aae156a0293a5d34f8a12405bb047a001c83d2df/eddie%20gif.gif" >
+</div>
+<div align="center">
+  
+  ${\textsf{\color{#5200A3} " the HABITs of man. "}}$ 
