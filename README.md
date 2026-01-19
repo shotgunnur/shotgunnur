@@ -21,7 +21,7 @@
 
 
 <div align="center">
-  <img src = "https://github.com/shotgunnur/shotgunnur/blob/91c964c418afaf62d9c5cad9f2cf0b8c9ca05a3b/habut.webp" >
+  <img src = "https://github.com/shotgunnur/shotgunnur/blob/8649eb82becdefafb60b1605f9687daebcd942e7/habuy.webp" >
 </div>
 <div align="center">
   
