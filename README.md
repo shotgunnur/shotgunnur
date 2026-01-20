@@ -18,15 +18,3 @@
 
 <div align=center>
   <img src="https://komarev.com/ghpvc/?username=shotgunnur&color=880808&style=plastic&label=sheep&abbreviated=true)">
-</div>
-
-<div align = "center">
-  <a href="https://pronouns.cc/@bitchyvampire" target="_blank">pronouns.cc</a> <a href="https://shotgunnur.atabook.org" target="_blank">atabook</a>
-</div>
-<hr>
-<div align="center">
-  <img src = "https://github.com/shotgunnur/shotgunnur/blob/8649eb82becdefafb60b1605f9687daebcd942e7/habuy.webp" width="500" height="600" >
-</div>
-<div align="center">
-  
-  ${\textsf{\color{#5200A3} " the HABITs of man. "}}$ 
