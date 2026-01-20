@@ -26,3 +26,7 @@
 <div align = "center">
   <img src = "https://github.com/shotgunnur/shotgunnur/blob/1dee67d716728af58e9a8c8f93bffc0464951670/edd.gif" width="500" height="600">
 </div>
+<div align="center">
+  
+  ${\textsf{\color{#C92202} " don't cha, big boy? "}}$ 
+<div align="center">
