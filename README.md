@@ -22,3 +22,7 @@
 <div align = "center">
   <a href="https://pronouns.cc/@bitchyvampire" target="_blank">pronouns.cc</a> <a href="https://shotgunnur.atabook.org" target="_blank">atabook</a>
 </div>
+<hr>
+<div align = "center">
+  <img src = "https://github.com/shotgunnur/shotgunnur/blob/1dee67d716728af58e9a8c8f93bffc0464951670/edd.gif" width="500" height="600">
+</div>
