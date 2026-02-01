@@ -6,7 +6,7 @@
 </div>
 <hr>
 <div align="center">
-  redoing rentry <a href="https://kascamazotz.straw.page" target="_blank">strawpage</a>
+  <a href="https://rentry.co/eightysixbaby">rentry (wip)</a> <a href="https://kascamazotz.straw.page">strawpage</a>
 </div>
 <div align="center">
 
@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=shotgunnur&color=880808&style=plastic&label=sheep&abbreviated=true)">
 </div>
 <div align = "center">
-  <a href="https://pronouns.cc/@bitchyvampire" target="_blank">pronouns.cc</a> <a href="https://shotgunnur.atabook.org" target="_blank">atabook</a>
+  <a href="https://pronouns.cc/@bitchyvampire">pronouns.cc</a> <a href="https://shotgunnur.atabook.org">atabook</a>
 </div>
 <hr>
 <div align = "center">
