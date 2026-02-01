@@ -6,7 +6,7 @@
 </div>
 <hr>
 <div align="center">
-  <a href="https://rentry.co/ifucanthang_" target="_blank">rentry</a> <a href="https://kascamazotz.straw.page" target="_blank">strawpage</a>
+  redoing rentry <a href="https://kascamazotz.straw.page" target="_blank">strawpage</a>
 </div>
 <div align="center">
 
