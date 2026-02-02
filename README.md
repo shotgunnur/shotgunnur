@@ -28,5 +28,5 @@
 </div>
 <div align="center">
   
-  ${\textsf{\color{#C92202} " so this place is like hawkins, but with monster and nasty shit? "}}$ 
+  ${\textsf{\color{#C92202} " so this place is like hawkins, but with monsters and nasty shit? "}}$ 
 <div align="center">
