@@ -6,7 +6,7 @@
 </div>
 <hr>
 <div align="center">
-  <a href="https://rentry.co/eightysixbaby">rentry (wip)</a> <a href="https://kascamazotz.straw.page">strawpage</a>
+  <a href="https://rentry.co/eightysixbaby">rentry</a> <a href="https://kascamazotz.straw.page">strawpage</a>
 </div>
 <div align="center">
 
@@ -28,5 +28,5 @@
 </div>
 <div align="center">
   
-  ${\textsf{\color{#C92202} " don't cha, big boy? "}}$ 
+  ${\textsf{\color{#C92202} " so this place is like hawkins, but with monster and nasty shit? "}}$ 
 <div align="center">
