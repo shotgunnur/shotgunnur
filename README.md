@@ -17,7 +17,7 @@
 </p>
 
 <div align=center>
-  <img src="https://komarev.com/ghpvc/?username=shotgunnur&color=880808&style=plastic&label=sheep&abbreviated=true)">
+  <img src="https://komarev.com/ghpvc/?username=shotgunnur&color=880808&style=plastic&label=sheep)">
 </div>
 <div align = "center">
   <a href="https://pronouns.cc/@bitchyvampire">pronouns.cc</a> <a href="https://shotgunnur.atabook.org">atabook</a>
