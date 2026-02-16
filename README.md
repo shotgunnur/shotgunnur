@@ -2,7 +2,7 @@
   
   ${\textsf{\color{#C92202} " it's forced conformity, that's what's killing the kids! "}}$ 
 <div align="center">
-  <img src = "https://github.com/shotgunnur/shotgunnur/blob/aae156a0293a5d34f8a12405bb047a001c83d2df/eddie%20gif.gif" width="500" height="600">
+  <img src = "https://github.com/shotgunnur/shotgunnur/blob/0d984f855fbf81bcbf18d694c490f193fd7e1e3e/stedie.webp" width="500" height="600">
 </div>
 <hr>
 <div align="center">
@@ -24,7 +24,7 @@
 </div>
 <hr>
 <div align = "center">
-  <img src = "https://github.com/shotgunnur/shotgunnur/blob/1dee67d716728af58e9a8c8f93bffc0464951670/edd.gif" width="500" height="600">
+  <img src = "https://github.com/shotgunnur/shotgunnur/blob/9438b60f47401c0c29a2638bb47ac3fd41550485/smiley%20ed.webp" width="500" height="600">
 </div>
 <div align="center">
   
