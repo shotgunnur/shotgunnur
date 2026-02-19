@@ -1,6 +1,6 @@
 <div align="center">
   
-  ${\textsf{\color{#C92202} " it's forced conformity, that's what's killing the kids! "}}$ 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=New+Rocker&size=18&pause=500&color=A70000&center=true&vCenter=true&width=435&lines=%22+master+of+puppets%2C+i'm+pulling+your+strings)](https://git.io/typing-svg) 
 <div align="center">
   <img src = "https://github.com/shotgunnur/shotgunnur/blob/0d984f855fbf81bcbf18d694c490f193fd7e1e3e/stedie.webp" width="500" height="600">
 </div>
@@ -28,5 +28,5 @@
 </div>
 <div align="center">
   
-  ${\textsf{\color{#C92202} " so this place is like hawkins, but with monsters and nasty shit? "}}$ 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=New+Rocker&size=18&pause=500&color=A70000&center=true&vCenter=true&width=435&lines=twisting+your+mind+and+smashing+your+dreams+%22)](https://git.io/typing-svg)
 <div align="center">
