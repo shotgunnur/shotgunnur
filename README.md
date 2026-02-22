@@ -24,7 +24,7 @@
 </div>
 <hr>
 <div align = "center">
-  <img src = "https://github.com/shotgunnur/shotgunnur/blob/9438b60f47401c0c29a2638bb47ac3fd41550485/smiley%20ed.webp" width="500" height="600">
+  <img src = "https://github.com/shotgunnur/shotgunnur/blob/d12c4417f979b216dbaaf925ae580b21a1246769/soup.gif" width="500" height="600">
 </div>
 <div align="center">
   
