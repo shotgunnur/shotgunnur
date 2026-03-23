@@ -25,5 +25,5 @@ ${\color{#880808} eddie \space \space .. \space \space he \space \space \space s
 [rentry](https://rentry.co/eightysixbaby) , , [atabook](https://shotgunnur.atabook.org) , , [pronouns.cc](https://pronouns.cc/@vampiricrequiem) , , [strawpage](https://kascamazotz.straw.page)
 
 <div align ="center">
-<img src="https://github.com/shotgunnur/shotgunnur/blob/1f5011d54c0284eb9971cfd8fe4b0f94aace2b71/red%20divider%201.png">
+<img src="https://github.com/shotgunnur/shotgunnur/blob/2ecec8a9458291a0b5526d9a259565aa53b470c5/red%20divider%202.png">
 </div>
