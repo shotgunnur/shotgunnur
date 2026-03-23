@@ -1,4 +1,7 @@
 <div align = "center">
+<img src="https://github.com/shotgunnur/shotgunnur/blob/f43ebb0e95cae3b74e4eaab9b808857a66e7e645/div%201.png">
+
+<div align = "center">
 <img src="https://github.com/shotgunnur/daredevil/blob/452749407d943b947a258bd1a5a7730641f16b22/banner%20dd.png" width="650">
 </div>
 <div align = "center">
