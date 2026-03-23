@@ -4,10 +4,9 @@
 <div align = "center">
 <img src="https://github.com/shotgunnur/daredevil/blob/452749407d943b947a258bd1a5a7730641f16b22/banner%20dd.png" width="650">
 </div>
-<div align = "center">
+<p align=center
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Estonia&size=40&duration=2000&pause=800&color=A40000&center=true&vCenter=true&width=435&lines=another+man's+evil+does+not+make+you+good.)](https://git.io/typing-svg)
-</div>
+${\color{#880808} eddie \space \space .. \space \space he \space \space \space she {}}$
 
 <div align = "center">
   
@@ -22,7 +21,7 @@
 
 <p align=center
 
-[rentry](https://rentry.co/eightysixbaby) , , [atabook](https://shotgunnur.atabook.org) , , [pronouns.cc](https://pronouns.cc/@vampiricrequiem) // ♰
+[rentry](https://rentry.co/eightysixbaby) , , [atabook](https://shotgunnur.atabook.org) , , [pronouns.cc](https://pronouns.cc/@vampiricrequiem) , , [strawpage](https://kascamazotz.straw.page)
 
 <div align = "center">
 <img src="https://github.com/shotgunnur/shotgunnur/blob/2627162bdd2c295d773ef947fb5dc5657a6844cb/dvi%202.png">
