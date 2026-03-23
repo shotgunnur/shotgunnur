@@ -1,3 +1,7 @@
+<div align ="center">
+<img src="https://github.com/shotgunnur/shotgunnur/blob/1f5011d54c0284eb9971cfd8fe4b0f94aace2b71/red%20divider%201.png">
+</div>
+
 <div align = "center">
 <img src="https://github.com/shotgunnur/daredevil/blob/452749407d943b947a258bd1a5a7730641f16b22/banner%20dd.png" width="650">
 </div>
@@ -19,3 +23,7 @@ ${\color{#880808} eddie \space \space .. \space \space he \space \space \space s
 <p align=center
 
 [rentry](https://rentry.co/eightysixbaby) , , [atabook](https://shotgunnur.atabook.org) , , [pronouns.cc](https://pronouns.cc/@vampiricrequiem) , , [strawpage](https://kascamazotz.straw.page)
+
+<div align ="center">
+<img src="https://github.com/shotgunnur/shotgunnur/blob/1f5011d54c0284eb9971cfd8fe4b0f94aace2b71/red%20divider%201.png">
+</div>
