@@ -22,7 +22,7 @@ ${\color{#880808} " \space another \space man's \space evil \space does \space n
 
 <p align=center
 
-[rentry](https://rentry.co/eightysixbaby) , , [atabook](https://shotgunnur.atabook.org) , , [pronouns.cc](https://pronouns.cc/@vampiricrequiem) , , [strawpage](https://kascamazotz.straw.page)
+[atabook](https://shotgunnur.atabook.org) , , [pronouns.cc](https://pronouns.cc/@vampiricrequiem)
 
 <div align ="center">
 <img src="https://github.com/shotgunnur/shotgunnur/blob/2ecec8a9458291a0b5526d9a259565aa53b470c5/red%20divider%202.png">
