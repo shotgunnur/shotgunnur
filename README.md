@@ -24,6 +24,9 @@ ${\color{#880808} " \space another \space man's \space evil \space does \space n
 
 [atabook](https://shotgunnur.atabook.org) , , [pronouns.cc](https://pronouns.cc/@vampiricrequiem)
 
+<p align=center>
+<img src=""> <img src=""> <img src="">
+
 <div align ="center">
 <img src="https://github.com/shotgunnur/shotgunnur/blob/2ecec8a9458291a0b5526d9a259565aa53b470c5/red%20divider%202.png">
 </div>
