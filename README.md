@@ -7,7 +7,7 @@
 </div>
 <p align=center
 
-${\color{#880808} eddie \space \space .. \space \space he \space \space \space she {}}$
+${\color{#880808} " \space another \space man's \space evil \space does \space not \space make \space you \space good \space " {}}$
 
 <div align = "center">
   
