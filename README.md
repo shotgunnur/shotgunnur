@@ -23,3 +23,6 @@
 <p align=center
 
 [rentry](https://rentry.co/eightysixbaby) , , [atabook](https://shotgunnur.atabook.org) , , [pronouns.cc](https://pronouns.cc/@vampiricrequiem) // ♰
+
+<div align = "center">
+<img src="https://github.com/shotgunnur/shotgunnur/blob/2627162bdd2c295d773ef947fb5dc5657a6844cb/dvi%202.png">
