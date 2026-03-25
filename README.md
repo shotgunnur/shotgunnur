@@ -11,7 +11,7 @@ ${\color{#880808} " \space another \space man's \space evil \space does \space n
 
 <div align = "center">
   
-  ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=880808&abbreviated=true&label=justice+is+blind+.+†)
+  ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=880808&abbreviated=false&label=justice+is+blind+.+†)
   </div>
 
 <p align="center">
