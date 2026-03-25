@@ -22,7 +22,7 @@ ${\color{#880808} " \space another \space man's \space evil \space does \space n
 
 <p align=center
 
-[atabook](https://shotgunnur.atabook.org) , , [pronouns.cc](https://pronouns.cc/@vampiricrequiem)
+[atabook](https://shotgunnur.atabook.org) , , [rentry](https://rentry.co/nelsonmurdockpage)
 
 <p align=center>
 <img src="https://github.com/shotgunnur/shotgunnur/blob/8262adeded69db49cda5b920e11125c7443b3ee9/stamp%20dd%201.png"> <img src="https://github.com/shotgunnur/shotgunnur/blob/0d501234b0b22c3ac193c5506880b52bc8f6fb96/stamp%20dd%202.png"> <img src="https://github.com/shotgunnur/shotgunnur/blob/09b02411f10e55f0c77b63ee85cccf1d9385dc1e/stamp%20dd%203.png">
