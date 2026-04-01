@@ -2,6 +2,8 @@
 <img src="https://github.com/shotgunnur/shotgunnur/blob/1f5011d54c0284eb9971cfd8fe4b0f94aace2b71/red%20divider%201.png">
 </div>
 
+<p align=center>
+<img src="https://github.com/shotgunnur/shotgunnur/blob/414e7b0e11ba03bb29c04baf0cc0b0e5f55372d3/daredevil%20banner.png" width=800 height=600>
 <p align=center
 
 ${\color{#880808} " \space another \space man's \space evil \space does \space not \space make \space you \space good \space " {}}$
