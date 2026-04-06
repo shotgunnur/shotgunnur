@@ -1,5 +1,5 @@
 <div align ="center">
-<img src="https://github.com/shotgunnur/shotgunnur/blob/1f5011d54c0284eb9971cfd8fe4b0f94aace2b71/red%20divider%201.png">
+<img src="https://github.com/shotgunnur/shotgunnur/blob/8d447fccb64125ad1a96b798add03c02780f6fe8/divider.png">
 </div>
 
 <p align=center>
@@ -11,7 +11,7 @@ ${\color{#613d65} " \space just \space to \space make \space this \space officia
 
 <div align = "center">
   
-  ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=880808&label=justice+is+blind+.+†)
+  ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=613d65&label=bonjour,+mon+ami+.+†)
   </div>
 
 <p align="center">
@@ -24,9 +24,6 @@ ${\color{#613d65} " \space just \space to \space make \space this \space officia
 
 [atabook](https://shotgunnur.atabook.org) , , [rentry](https://rentry.co/nelsonmurdockpage) , , [strawpage](https://lediableblanc.straw.page)
 
-<p align=center>
-<img src="https://github.com/shotgunnur/shotgunnur/blob/8262adeded69db49cda5b920e11125c7443b3ee9/stamp%20dd%201.png"> <img src="https://github.com/shotgunnur/shotgunnur/blob/0d501234b0b22c3ac193c5506880b52bc8f6fb96/stamp%20dd%202.png"> <img src="https://github.com/shotgunnur/shotgunnur/blob/09b02411f10e55f0c77b63ee85cccf1d9385dc1e/stamp%20dd%203.png">
-
 <div align ="center">
-<img src="https://github.com/shotgunnur/shotgunnur/blob/2ecec8a9458291a0b5526d9a259565aa53b470c5/red%20divider%202.png">
+<img src="https://github.com/shotgunnur/shotgunnur/blob/8d447fccb64125ad1a96b798add03c02780f6fe8/divider.png">
 </div>
