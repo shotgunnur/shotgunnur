@@ -3,10 +3,10 @@
 </div>
 
 <p align=center>
-<img src="https://github.com/shotgunnur/shotgunnur/blob/414e7b0e11ba03bb29c04baf0cc0b0e5f55372d3/daredevil%20banner.png" width=600 height=600>
+<img src="https://github.com/shotgunnur/shotgunnur/blob/169e3d64a6971ebda199295ccfc32c9400744d6c/gambit%20banner.png" width=600 height=600>
 <p align=center
 
-${\color{#880808} " \space another \space man's \space evil \space does \space not \space make \space you \space good \space " {}}$
+${\color{#613d65} " \space just \space to \space make \space this \space official, \space bang! \space you \space dead. \space " {}}$
 
 
 <div align = "center">
