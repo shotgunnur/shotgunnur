@@ -22,7 +22,7 @@ ${\color{#613d65} " \space just \space to \space make \space this \space officia
 
 <p align=center
 
-[atabook](https://shotgunnur.atabook.org) , , [rentry](https://rentry.co/nelsonmurdockpage) , , [strawpage](https://lediableblanc.straw.page)
+[atabook](https://shotgunnur.atabook.org) , , [rentry](https://rentry.co/gambiit) , , [strawpage](https://lediableblanc.straw.page)
 
 <div align ="center">
 <img src="https://github.com/shotgunnur/shotgunnur/blob/8d447fccb64125ad1a96b798add03c02780f6fe8/divider.png">
