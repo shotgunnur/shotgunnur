@@ -4,11 +4,6 @@
 
 <p align=center>
 <img src="https://github.com/shotgunnur/shotgunnur/blob/169e3d64a6971ebda199295ccfc32c9400744d6c/gambit%20banner.png" width=600 height=600>
-<p align=center
-
-${\color{#613d65} " \space just \space to \space make \space this \space official, \space bang! \space you \space dead. \space " {}}$
-
-
 <div align = "center">
   
   ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=613d65&label=bonjour,+mon+ami+.+†)
