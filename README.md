@@ -2,7 +2,7 @@
 <img src="https://github.com/shotgunnur/shotgunnur/blob/0de71e3c93a4d7165b958fb4d2ac838eac2a15ec/ilyaaa.gif" width=400 height=600>
 <div align = "center">
   
-  ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=613d65&label=why+are+you+staring+at+me?)
+  ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=E6A927&label=why+are+you+staring+at+me?)
   </div>
 
 <p align="center">
