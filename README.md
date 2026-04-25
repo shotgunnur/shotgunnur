@@ -13,4 +13,4 @@
 
 <p align=center
 
-[atabook](https://shotgunnur.atabook.org) , , [rentry](https://rentry.co/gambiit) , , [strawpage](https://lediableblanc.straw.page)
+[atabook](https://shotgunnur.atabook.org) , , [rentry](https://rentry.co/r0zan0v) , , [strawpage](https://lediableblanc.straw.page)
