@@ -1,7 +1,3 @@
-<div align ="center">
-<img src="https://github.com/shotgunnur/shotgunnur/blob/8d447fccb64125ad1a96b798add03c02780f6fe8/divider.png">
-</div>
-
 <p align=center>
 <img src="https://github.com/shotgunnur/shotgunnur/blob/169e3d64a6971ebda199295ccfc32c9400744d6c/gambit%20banner.png" width=600 height=600>
 <div align = "center">
@@ -18,7 +14,3 @@
 <p align=center
 
 [atabook](https://shotgunnur.atabook.org) , , [rentry](https://rentry.co/gambiit) , , [strawpage](https://lediableblanc.straw.page)
-
-<div align ="center">
-<img src="https://github.com/shotgunnur/shotgunnur/blob/8d447fccb64125ad1a96b798add03c02780f6fe8/divider.png">
-</div>
