@@ -13,4 +13,4 @@
 
 <p align=center
 
-[atabook](https://shotgunnur.atabook.org) , , [rentry](https://rentry.co/r0zan0v) , , [strawpage](https://kascamazotz.straw.page)
+[atabook](https://shotgunnur.atabook.org) , , [rentry](https://rentry.co/r0zan0v) , , [strawpage](https://kazcamazotz.straw.page)
