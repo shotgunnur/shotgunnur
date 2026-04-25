@@ -1,8 +1,8 @@
 <p align=center>
-<img src="https://github.com/shotgunnur/shotgunnur/blob/169e3d64a6971ebda199295ccfc32c9400744d6c/gambit%20banner.png" width=600 height=600>
+<img src="https://github.com/shotgunnur/shotgunnur/blob/0de71e3c93a4d7165b958fb4d2ac838eac2a15ec/ilyaaa.gif" width=400 height=600>
 <div align = "center">
   
-  ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=613d65&label=bonjour,+mon+ami+.+†)
+  ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=613d65&label=why+are+you+staring+at+me?)
   </div>
 
 <p align="center">
