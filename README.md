@@ -16,8 +16,8 @@
 [atabook](https://shotgunnur.atabook.org) , , [rentry](https://rentry.co/r0zan0v) , , [strawpage](https://kazcamazotz.straw.page)
 
 <details align="center">
-<summary><b>. . .</b></summary>
-<p>
-Всё, чего я хочу — это ты. Всегда только ты. Я так влюблён в тебя и не знаю, что с этим делать.
+<summary><b>CLICK ME</b></summary>
+<p align=center>
+<img src="https://i.postimg.cc/43pbh71V/can-you-lock-tf-in.jpg" width=400 height=200>
 </p>
 </details>
