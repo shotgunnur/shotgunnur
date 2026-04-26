@@ -14,3 +14,6 @@
 <p align=center
 
 [atabook](https://shotgunnur.atabook.org) , , [rentry](https://rentry.co/r0zan0v) , , [strawpage](https://kazcamazotz.straw.page)
+
+<p align=center>
+<img src="https://github.com/shotgunnur/shotgunnur/blob/12eb29fe2c42034367212ae3431548ef8e673287/stamp%20(1).gif">
