@@ -4,7 +4,7 @@
 <details align="center">
 <summary><b>basic info</b></summary>
 <p align=center>
-hey im matthew or eddie. im 18 yrs old, i use he she + neos with he pref. im genderfluid, cinthean, and on the aroaces spectrum. i like a bunch of different shit, mostly dude from various media. yes, i like ilya. please GOD ships dni i am 18 and it makes me uncomfy cuz most of yall are under 18. thanks.
+hey im matthew or eddie. im 18 yrs old, i use he she + neos with he pref. im genderfluid, cinthean, and on the aroace spectrum. i like a bunch of different shit, mostly dude from various media. yes, i like ilya. please GOD ships dni i am 18 and it makes me uncomfy cuz most of yall are under 18. thanks.
 </p>
 </details>
 
