@@ -15,5 +15,9 @@
 
 [atabook](https://shotgunnur.atabook.org) , , [rentry](https://rentry.co/r0zan0v) , , [strawpage](https://kazcamazotz.straw.page)
 
-<p align=center>
-<img src="https://github.com/shotgunnur/shotgunnur/blob/12eb29fe2c42034367212ae3431548ef8e673287/stamp%20(1).gif">
+<details align="center">
+<summary><b>. . .</b></summary>
+<p>
+Всё, чего я хочу — это ты. Всегда только ты. Я так влюблён в тебя и не знаю, что с этим делать.
+</p>
+</details>
