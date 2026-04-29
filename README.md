@@ -3,7 +3,7 @@
 
 <div align = "center">
   
-  ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=E6A927&label=why+are+you+staring+at+me?)
+  ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=E6A927&label=rozanov+81++)
   </div>
 
 <p align="center">
