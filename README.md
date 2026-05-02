@@ -1,5 +1,5 @@
 <p align=center>
-<img src="https://github.com/shotgunnur/shotgunnur/blob/0de71e3c93a4d7165b958fb4d2ac838eac2a15ec/ilyaaa.gif" width=400 height=600>
+<img src="https://github.com/shotgunnur/shotgunnur/blob/329646f7b49a586b838cf80736b5a823f11211e7/smiley.webp" width=400 height=600>
 
 <div align = "center">
   
