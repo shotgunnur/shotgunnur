@@ -14,4 +14,4 @@
 
 <p align=center
 
-[atabook](https://shotgunnur.atabook.org) , , [rentry](https://rentry.co/hollanderrozanov) , , [strawpage](https://rozanov81baby.straw.page) , , [rentry2](https://rentry.co/hellpistol) , , [prns.cc](https://pronouns.cc/@vampiricrequiem)
+[❄️](https://shotgunnur.atabook.org) , , [🥃](https://rentry.co/hollanderrozanov) , , [🏒](https://rozanov81baby.straw.page) , , [🚬](https://rentry.co/hellpistol) , , [📱](https://pronouns.cc/@vampiricrequiem)
