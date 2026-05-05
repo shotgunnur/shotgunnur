@@ -11,3 +11,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bgjt4lpjj75seup5dnsdohowk&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
+
+<p align=center
+
+[01.](https://shotgunnur.atabook.org) , , [02.](https://rentry.co/hollanderrozanov) , , [03.](https://rozanov81baby.straw.page) , , [04.](https://rentry.co/hellpistol) , , [05.](https://pronouns.cc/@vampiricrequiem) , , [06.](https://en.pronouns.page/@rozanov81)
