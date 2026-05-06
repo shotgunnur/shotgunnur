@@ -1,9 +1,9 @@
 <p align=center>
-<img src="https://github.com/shotgunnur/shotgunnur/blob/329646f7b49a586b838cf80736b5a823f11211e7/smiley.webp" width=400 height=600>
+<img src="https://github.com/shotgunnur/shotgunnur/blob/27d90c740f4ee4960fb900255e0dae91d0beef9e/more%20ryland.jpg" width=400 height=600>
 
 <div align = "center">
   
-  ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=E6A927&label=rozanov+81++)
+  ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=E6A927&label=gcms+++)
   </div>
 
 <p align="center">
