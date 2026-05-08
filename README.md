@@ -1,5 +1,5 @@
 <p align=center>
-<img src="https://github.com/shotgunnur/shotgunnur/blob/27d90c740f4ee4960fb900255e0dae91d0beef9e/more%20ryland.jpg" width=400 height=600>
+<img src="https://github.com/shotgunnur/shotgunnur/blob/cd87ec9205985ddf41c7306ebbaf2a1ce4903353/RYLANDG.jpg" width=400 height=600>
 
 <div align = "center">
   
