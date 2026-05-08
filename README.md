@@ -1,5 +1,5 @@
 <p align=center>
-<img src="https://github.com/shotgunnur/shotgunnur/blob/cd87ec9205985ddf41c7306ebbaf2a1ce4903353/RYLANDG.jpg" width=400 height=600>
+<img src="https://github.com/shotgunnur/shotgunnur/blob/0607918e40ac8de431bd5deec131264f96d66ad2/the%20buds%20(1).png" alt=art from coatsinkleaf on tumblr width=400 height=600>
 
 <div align = "center">
   
