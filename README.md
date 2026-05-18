@@ -16,4 +16,4 @@
 
 <p align=center
 
-[01.](https://shotgunnur.atabook.org) , , [02](https://rentry.co/rylandg). , , [03.](https://hailmaryfullofrylandgrace.straw.page) , , [04.](https://pronouns.cc/@vampiricrequiem) , , [05.](https://en.pronouns.page/@rylandgracephm)
+[01.](https://shotgunnur.atabook.org) , , [02](https://rentry.co/rylandg). , , [03.](https://hailmaryfullofrylandgrace.straw.page) , , [04.](https://en.pronouns.page/@rylandgracephm)
