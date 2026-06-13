@@ -1,7 +1,7 @@
 <p align=center>
-<img src="https://github.com/shotgunnur/shotgunnur/blob/0607918e40ac8de431bd5deec131264f96d66ad2/the%20buds%20(1).png" width=400 height=600>
+<img src="https://github.com/shotgunnur/shotgunnur/blob/9ec52e10d8544a83cc858fd55125f3ff0054849c/phn.png" width=400 height=600>
 
-  <p align ="center"> $\color{#a1a1a1}{\textsf{ac : coatsinkleaf on tumblr}}$ </p>
+  <p align ="center"> $\color{#a1a1a1}{\textsf{18yo . ryland grace fictkin}}$ </p>
 
 <div align = "center">
   
