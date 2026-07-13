@@ -5,3 +5,4 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bgjt4lpjj75seup5dnsdohowk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
+<p align=center> <img src="https://github.com/shotgunnur/shotgunnur/blob/13ce73e044821f2a506b06f315b618c6906137b1/2.png" height=100 width=100> ![join twoface]()
