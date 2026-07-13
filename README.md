@@ -1,4 +1,4 @@
-<p align=center> <img src="https://github.com/shotgunnur/shotgunnur/blob/1bc4bcd934b8aea813ff0c87c6045047c5f96c0c/twofie.jpg" height=654 width=368> </p>
+<p align=center> <img src="https://github.com/shotgunnur/shotgunnur/blob/e0af8e7898f1e38b02b0628e750745ac2192a63d/4.png" height=654 width=368> </p>
 <p align="center">$\color{#bababa}{\textsf{ art : TRARANA0328  }}$
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
