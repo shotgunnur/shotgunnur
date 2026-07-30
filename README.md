@@ -9,3 +9,8 @@
   
   ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=300000&label=+++Théâtre+des+Vampires+++)
   </div>
+
+<div align="center">
+  
+  ***ponytown's lestat de lioncourt ‎ ‎ ‎ [<3](https://github.com/pt-hall-of-media)***
+</div>
