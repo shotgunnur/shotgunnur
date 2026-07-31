@@ -1,3 +1,5 @@
+<p align=center> <img src="https://github.com/shotgunnur/shotgunnur/blob/e71a634e941a65bb4e1dbeef81b4b81ecd5cb3bf/Untitled456_20260731011329.png" height=981 width=579> </p>
+
 <p align=center> <img src="https://github.com/shotgunnur/shotgunnur/blob/2723971456c6e4d43502de9e13f63550004c013d/Untitled454_20260731011005.png" height=654 width=368> </p>
 <p align="center">$\color{#ABABAB}{\textsf{ac : circuitrin on x/twitter}}$</p>
 <p align="center">
