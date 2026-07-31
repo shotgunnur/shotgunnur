@@ -13,7 +13,7 @@
 </p>
 <div align = "center">
   
-  ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=300000&label=+++Théâtre+des+Vampires+++)
+  ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=630a10&label=+++Théâtre+des+Vampires+++)
   </div>
 
 <div align="center">
