@@ -21,4 +21,15 @@
   ***ponytown's lestat de lioncourt ‎ ‎ ‎ [<3](https://github.com/pt-hall-of-media)***
 </div>
 
+<div align=center>
+<details>
+    <summary>I LOVE MY PARTY!!</summary>
+<div align="center">
+  <p> pfo my best friends lalala i love u guys</p>
+    <img src="" height=300 width=300>
+    <p> art by sapphire-shores on tumblr</p>
+</div>
+</details>
+</div>
+
 <p align=center> <img src="https://github.com/shotgunnur/shotgunnur/blob/29acf869257a5d028b49ab6ddd52e9499c5d2efc/Untitled457_20260731011454.png" height=981 width=579> </p>
