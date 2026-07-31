@@ -4,7 +4,7 @@
 
 <div align=center>
   
-  [<img width="85" height="85" src="https://github.com/shotgunnur/shotgunnur/blob/ee26c25b8620af045f1316edc0e5a5b0ad6d66aa/stamp%201.png"/>](https://rentry.co/-tonystark) [<img width="85" height="85" src="https://github.com/70smusic/70smusic/blob/main/prncc.png"/>](https://pronouns.cc/@70smusic) [<img width="85" height="85" src="https://github.com/70smusic/70smusic/blob/main/atabook.png"/>](https://70smusic.atabook.org/) [<img width="85" height="85" src="https://github.com/70smusic/70smusic/blob/main/strawpage.png"/>](https://70smusic.straw.page/)</div>
+  [<img width="85" height="85" src="https://github.com/shotgunnur/shotgunnur/blob/ee26c25b8620af045f1316edc0e5a5b0ad6d66aa/stamp%201.png"/>](https://rentry.co/-tonystark) [<img width="85" height="85" src="https://github.com/shotgunnur/shotgunnur/blob/b730721cc5f71b661de727ffed7b81be45278663/stamp%202.png"/>](https://pronouns.cc/@70smusic) [<img width="85" height="85" src="https://github.com/70smusic/70smusic/blob/main/atabook.png"/>](https://70smusic.atabook.org/) [<img width="85" height="85" src="https://github.com/70smusic/70smusic/blob/main/strawpage.png"/>](https://70smusic.straw.page/)</div>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
