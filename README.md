@@ -26,8 +26,7 @@
     <summary>I LOVE MY PARTY!!</summary>
 <div align="center">
   <p> pfo my best friends lalala i love u guys</p>
-    <img src="" height=300 width=300>
-    <p> art by sapphire-shores on tumblr</p>
+    <img src="https://github.com/shotgunnur/shotgunnur/blob/f1176f302b6993b562c7910719447b11ed38dacd/image-191.png" height=167 width=468>
 </div>
 </details>
 </div>
