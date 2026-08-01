@@ -4,7 +4,7 @@
 
 <div align=center>
   
-  [<img width="85" height="85" src="https://github.com/shotgunnur/shotgunnur/blob/ee26c25b8620af045f1316edc0e5a5b0ad6d66aa/stamp%201.png"/>](https://fluffle.cc/badhabitz-) [<img width="85" height="85" src="https://github.com/shotgunnur/shotgunnur/blob/b730721cc5f71b661de727ffed7b81be45278663/stamp%202.png"/>](https://en.pronouns.page/@masochistichound) [<img width="85" height="85" src="https://github.com/shotgunnur/shotgunnur/blob/06ebad61412fdfb2331d1c88d06d6853c4a1efd0/stamp%203.png"/>](https://shotgunnur.atabook.org) [<img width="85" height="85" src="https://github.com/shotgunnur/shotgunnur/blob/cc8974cc290b3287883bdd9493f716774f2f4962/stamp%204.png"/>](https://masochistichillbilly.straw.page)</div>
+  [<img width="85" height="85" src="https://github.com/shotgunnur/shotgunnur/blob/ee26c25b8620af045f1316edc0e5a5b0ad6d66aa/stamp%201.png"/>](https://fluffle.cc/lou_stat) [<img width="85" height="85" src="https://github.com/shotgunnur/shotgunnur/blob/b730721cc5f71b661de727ffed7b81be45278663/stamp%202.png"/>](https://en.pronouns.page/@masochistichound) [<img width="85" height="85" src="https://github.com/shotgunnur/shotgunnur/blob/06ebad61412fdfb2331d1c88d06d6853c4a1efd0/stamp%203.png"/>](https://shotgunnur.atabook.org) [<img width="85" height="85" src="https://github.com/shotgunnur/shotgunnur/blob/cc8974cc290b3287883bdd9493f716774f2f4962/stamp%204.png"/>](https://masochistichillbilly.straw.page)</div>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
