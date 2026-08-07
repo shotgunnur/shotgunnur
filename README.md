@@ -1,4 +1,4 @@
-<p align=center> <img src="https://i.postimg.cc/SxYmfR51/mask1.png"> </p>
+<p align=center> <img src="https://i.postimg.cc/VvzjX3kf/masks.jpg" height=337.5 width=600> </p>
 
 <p align=center> <img src="https://i.postimg.cc/zGvFtZSC/the-tip.webp"> </p>
   
