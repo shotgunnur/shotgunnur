@@ -14,6 +14,19 @@
 
 <div align=center>
 <details>
+    <summary>about me</summary>
+<div align="center">
+  <p> matthew / eddie / sarge / enzio </p>
+  <p> he/ask pronouns </p>
+  <p> transmasc butchboy </p>
+  
+  [info](https://pronouns.cc/@vampiricrequiem)
+</div>
+</details>
+</div>
+
+<div align=center>
+<details>
     <summary>I LOVE MY PARTY!!</summary>
 <div align="center">
   <p> pfo my best friends lalala i love u guys</p>
