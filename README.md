@@ -1,6 +1,6 @@
 <p align=center> <img src="https://i.postimg.cc/SxYmfR51/mask1.png"> </p>
 
-<p align=center> <img src="https://i.postimg.cc/Z5W5sV9R/fuck-u.webp"> </p>
+<p align=center> <img src="https://i.postimg.cc/zGvFtZSC/the-tip.webp"> </p>
   
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
