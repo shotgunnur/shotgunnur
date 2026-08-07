@@ -1,4 +1,6 @@
 <p align=center> <img src="https://github.com/shotgunnur/shotgunnur/blob/2723971456c6e4d43502de9e13f63550004c013d/Untitled454_20260731011005.png" height=654 width=368> </p>
+
+<p align=center> <img src="https://i.postimg.cc/Z5W5sV9R/fuck-u.webp"> </p>
   
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
