@@ -1,13 +1,13 @@
-<p align=center> <img src="https://i.postimg.cc/WznfFg8J/hikira.gif" height=402 width=720> </p>
+<p align=center> <img src="https://i.postimg.cc/CMqbTt0y/lestat-yahoo.gif" height=540 width=400> </p>
   
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bgjt4lpjj75seup5dnsdohowk&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=CB00CF&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bgjt4lpjj75seup5dnsdohowk&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=A82020&bar_color_cover=false">
   </a>
 </p>
 <div align = "center">
   
-  ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=CB00CF&label=+++shooting+stars+++)
+  ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=A82020&label=+++Théâtre+des+Vampires+++)
   </div>
 
 <div align=center>
