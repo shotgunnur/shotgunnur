@@ -1,3 +1,13 @@
+<div align=center>
+<details>
+    <summary>awards</summary>
+<div align="center">
+  
+  [ponytown's lestat de lioncourt & brutal love](https://github.com/pt-hall-of-media)
+</div>
+</details>
+</div>
+
 <p align=center> <img src="https://i.postimg.cc/26XGcBnv/loustat.png" height=452 width=640> </p>
   
 <p align="center">
